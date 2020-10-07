@@ -15,3 +15,6 @@ IIB failover
 LDAP with IIB
 Rest API (Swagger) enabling in IIB
 API gateway
+Agile concept
+Types of Variables in IIB
+Connecting IIB with DB
